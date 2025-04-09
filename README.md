@@ -1,2 +1,1 @@
-# Repo.UTN
-Repositorio para proyecto de investigación 
+Proyecto sensores investigacion 

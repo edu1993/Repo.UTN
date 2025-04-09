@@ -1,0 +1,10 @@
+Toma de datos número 305895:
+Sensor 1: Humedad = 55.60%, Temperatura = 13.40°C
+Sensor 2: Humedad = 42.00%, Temperatura = 18.10°C
+Sensor 3: Humedad = 41.70%, Temperatura = 18.60°C
+Sensor 1: Humedad = 55.60%, Temperatura = 13.40°C
+Sensor 2: Humedad = 42.00%, Temperatura = 18.10°C
+Sensor 3: Humedad = 41.70%, Temperatura = 18.60°C
+Sensor 1: Humedad = 55.60%, Temperatura = 13.40°C
+Sensor 2: Humedad = 42.00%, Temperatura = 18.10°C
+Sensor 3: Humedad = 41.70%, Temperatura = 18.60°C
